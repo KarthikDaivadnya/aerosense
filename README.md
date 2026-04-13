@@ -198,7 +198,7 @@ jupyter notebook
 
 **Karthik Daivadnya**
 - 📧 karthikdaivanya27@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/)
+- 💼 [LinkedIn](http://www.linkedin.com/in/karthik-daivadnya)
 - 🐙 [GitHub](https://github.com/KarthikDaivadnya)
 
 ---
@@ -209,3 +209,8 @@ jupyter notebook
 > NASA Ames Prognostics Data Repository, NASA Ames Research Center, Moffett Field, CA
 
 ---
+
+
+
+> **Note:** The trained model file is not included in this repo due to size limits.
+> Run `uvicorn main:app --reload` — the model will auto-train on first startup.
