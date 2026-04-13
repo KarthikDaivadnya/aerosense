@@ -1,0 +1,6 @@
+backend/models/
+backend/data/
+__pycache__/
+*.pkl
+venv/
+node_modules/
